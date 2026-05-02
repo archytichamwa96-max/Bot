@@ -1,4 +1,4 @@
-app = "subzero-md"
+app = "Archy-md"
 primary_region = "iad"
 
 [build]
@@ -6,11 +6,11 @@ primary_region = "iad"
 
 [env]
   PORT = "5000"
-  BOT_NAME = "SUBZERO-MD"
+  BOT_NAME = "ARCHIE-MD"
   COMMAND_MODE = "public"
   TIMEZONE = "Africa/Harare"
   SESSION_ID = ""
-  OWNER_NUMBER = "263719647303"
+  OWNER_NUMBER = "263782102695"
   MONGO_URL = ""
   POSTGRES_URL = ""
   MYSQL_URL = ""
