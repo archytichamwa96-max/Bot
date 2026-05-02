@@ -4,12 +4,12 @@ services:
     runtime: docker
     dockerfilePath: /Dockerfile
     envVars:
-      - key: SESSION_ID
+      - key: Ice~tLqBnm
         value: ""
       - key: OWNER_NUMBER
         value: "263..."
       - key: BOT_NAME
-        value: "SUBZERO-MD"
+        value: "Archie-MD"
       - key: COMMAND_MODE
         value: "public"
       - key: TIMEZONE
